@@ -1,4 +1,4 @@
-# demo
+# Demo App for FX Deals
 
 # App URL Requests : 
 http://localhost:8080/api/v1/fx
