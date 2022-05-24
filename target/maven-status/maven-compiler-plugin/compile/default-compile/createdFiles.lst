@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\fx\FxDealsRepo.class
+com\example\demo\fx\FxDealsServices.class
+com\example\demo\fx\FxDeals.class
+com\example\demo\fx\FxDealsController.class
